@@ -13,7 +13,7 @@ Adding more to the description lalalalalallala hehehsjfefjknfkf
 
 ## Credits
 
-TODO: Write credits
+Template provided by TVR. Changes by yours truly
 
 ## License
 
