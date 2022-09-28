@@ -1,3 +1,5 @@
+![woopsies, image busted](rumia-dance.gif "Logo Title Text 1")
+
 # Learning Github Desktop
 
 This makes things SO much easier!
